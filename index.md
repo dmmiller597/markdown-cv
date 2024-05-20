@@ -22,7 +22,7 @@ Gower Street, London WC1E 6BT, UK<br/>
 `2022-2026`
 **Ph.D., Computational Biology**, *University College London*, London, UK.
 - Focus on developing deep learning methods for functional annotation of<br/>
-  large scale protein strucutral data to inform functional protein design
+  large scale protein structural data to inform functional protein design
 
 `2021`
 **M.Sc., Health Data Science**, *University College London*, London, UK.

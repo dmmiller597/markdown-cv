@@ -2,7 +2,7 @@
 layout: cv
 title: David Miller's CV
 ---
-# David Miller
+# David Michael Miller
 PhD Candidate, University College London
 
 Division of Biosciences & UCL Centre for Artificial Intelligence<br/>
@@ -43,7 +43,7 @@ Gower Street, London WC1E 6BT, UK<br/>
 - Worked on RNA Timestamps, a novel method to estimate the age of sinlge molecule RNA from sequencing data.
 
 `Nov 2021 - Jan 2023`
-**Researcher**, *UCL*, Computational Medicine Lab
+**Research Assistant**, *UCL*, Computational Medicine Lab
 - Led projects in HERMES, a large-scale genomics consoritum for discovering novel drug targets in Heart Failure
 
 `Sep 2020 - Aug 2021`
@@ -55,7 +55,7 @@ Gower Street, London WC1E 6BT, UK<br/>
 - Selected for the 2020 Pennovation Accelerator Cohort. Developed a bicycle helmet entirely biologically grown from mycelium-based foam.
 
 `Aug 2017 - Mar 2020`
-**Clinical Research**, *University of Pennsylvania*
+**Clinical Researcher**, *University of Pennsylvania*
 - Studied the clinical effects of radiation treatment on chimeric antigen receptor T-cell (CAR T) Therapy.
 
 

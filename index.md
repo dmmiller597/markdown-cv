@@ -40,7 +40,7 @@ Gower Street, London WC1E 6BT, UK<br/>
 
 `Jan 2023 - May 2023`
 **Visiting Scientist**, *The Francis Crick Institute*
-Worked on RNA Timestamps, a novel method to estimate the age of sinlge molecule RNA from sequencing data.
+- Worked on RNA Timestamps, a novel method to estimate the age of sinlge molecule RNA from sequencing data.
 
 `Nov 2021 - Jan 2023`
 **Researcher**, *UCL*, Computational Medicine Lab

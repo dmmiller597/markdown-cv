@@ -21,8 +21,7 @@ Gower Street, London WC1E 6BT, UK<br/>
 
 `2022-2026`
 **Ph.D., Computational Biology**, *University College London*, London, UK.
-- Focus on developing deep learning methods for functional annotation of<br/>
-large scale protein structural data to inform functional protein design
+- Focus on developing deep learning methods for functional annotation of proteins to inform protein design
 
 `2021`
 **M.Sc., Health Data Science**, *University College London*, London, UK.
@@ -41,29 +40,23 @@ large scale protein structural data to inform functional protein design
 
 `Jan 2023 - May 2023`
 **Visiting Scientist**, *The Francis Crick Institute*
-Worked with James Bayne and Sam Rodriques in the Applied Biotechnology Lab on RNA Timestamps,<br/>
-a novel method to estimate the age of sinlge molecule RNA from sequencing data.
+Worked on RNA Timestamps, a novel method to estimate the age of sinlge molecule RNA from sequencing data.
 
 `Nov 2021 - Jan 2023`
 **Researcher**, *UCL*, Computational Medicine Lab
-- Led projects in HERMES, a large-scale genetic discovery consoritum for Heart Failure using<br/>
-Mendelian randomisation for causal inference and drug target validation.
+- Led projects in HERMES, a large-scale genomics consoritum for discovering novel drug targets in Heart Failure
 
 `Sep 2020 - Aug 2021`
 **Postgraduate Representative**, *MedTech UCL*
-- Chaired the UCL AI in Medicine conference, hosted speakers such as <br/>
-Eric Topol, Pearse Keane, Mihaela van der Schaar, and Manolis Kellis.
+- Chaired the UCL AI in Medicine conference, hosted speakers such as Eric Topol, Mihaela van der Schaar, and Manolis Kellis.
 
 `Apr 2020 - Mar 2021`
 **Chief Science Officer**, *MyGrow Design*
-- Selected for the 2020 Pennovation Accelerator Cohort. MyGrow Design develops<br/>
-innovative biomaterial-based products. MyGrow Design’s first product is MyGrow™ Helmet,<br/>
-a bicycle helmet entirely biologically grown from mycelium-based foam.
+- Selected for the 2020 Pennovation Accelerator Cohort. Developed a bicycle helmet entirely biologically grown from mycelium-based foam.
 
 `Aug 2017 - Mar 2020`
 **Clinical Research**, *University of Pennsylvania*
-- Studied the effects of radiation treatment on chimeric antigen receptor T-cell (CAR T)<br/>
-Therapy in the Department of Radiation Oncology
+- Studied the clinical effects of radiation treatment on chimeric antigen receptor T-cell (CAR T) Therapy.
 
 
 

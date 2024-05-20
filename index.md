@@ -22,7 +22,7 @@ Gower Street, London WC1E 6BT, UK<br/>
 `2022-2026`
 **Ph.D., Computational Biology**, *University College London*, London, UK.
 - Focus on developing deep learning methods for functional annotation of<br/>
-  large scale protein structural data to inform functional protein design
+large scale protein structural data to inform functional protein design
 
 `2021`
 **M.Sc., Health Data Science**, *University College London*, London, UK.
@@ -41,7 +41,7 @@ Gower Street, London WC1E 6BT, UK<br/>
 
 `Jan 2023 - May 2023`
 **Visiting Scientist**, *The Francis Crick Institute*
-- Worked with James Bayne and Sam Rodriques in the Applied Biotechnology Lab on RNA Timestamps,<br/>
+Worked with James Bayne and Sam Rodriques in the Applied Biotechnology Lab on RNA Timestamps,<br/>
 a novel method to estimate the age of sinlge molecule RNA from sequencing data.
 
 `Nov 2021 - Jan 2023`

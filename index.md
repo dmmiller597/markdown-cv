@@ -36,7 +36,7 @@ Gower Street, London WC1E 6BT, UK<br/>
 
 `Sep 2023 - Jan 2024`
 **Computational Biology Intern**, *VantAI*
-- Developed deep learning methods to predict degradation motifs in protein sequences using protein languge models.
+- Developed deep learning methods to predict degradation motifs in protein sequences using protein language models.
 
 `Jan 2023 - May 2023`
 **Visiting Scientist**, *The Francis Crick Institute*

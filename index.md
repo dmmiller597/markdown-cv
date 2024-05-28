@@ -36,7 +36,7 @@ Gower Street, London WC1E 6BT, UK<br/>
 
 `Sep 2023 - Jan 2024`
 **Computational Biology Intern**, *VantAI*
-- Developed a deep learning method to predict degradation motifs in protein sequences using protein languge models.
+- Developed a deep learning method to predict degradation motifs in protein sequences using protein language models.
 
 `Jan 2023 - May 2023`
 **Visiting Scientist**, *The Francis Crick Institute*
@@ -44,7 +44,7 @@ Gower Street, London WC1E 6BT, UK<br/>
 
 `Nov 2021 - Jan 2023`
 **Research Assistant**, *UCL*, Computational Medicine Lab
-- Led projects in HERMES, a large-scale genomics consoritum for discovering novel drug targets in Heart Failure.
+- Led projects in HERMES, a large-scale genomics consortium for discovering novel drug targets in Heart Failure.
 
 `Sep 2020 - Aug 2021`
 **Postgraduate Representative**, *MedTech UCL*

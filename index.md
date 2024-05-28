@@ -5,7 +5,7 @@ title: David Miller's CV
 # David Michael Miller
 PhD Candidate, University College London
 
-Division of Biosciences & UCL Centre for Artificial Intelligence<br/>
+UCL Centre for Artificial Intelligence & Division of Biosciences <br/>
 University College London<br/>
 Gower Street, London WC1E 6BT, UK<br/>
 

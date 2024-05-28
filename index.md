@@ -110,7 +110,7 @@ YD Tseng, BS Hoppe, **D Miller**, A Maity, RH Nanda, NP Mendenhall, ... Rates of
 ## Honours and Awards
 
 - International Scholar Award for Doctoral Training
-- 4 Year MRC Doctoral Training Programme Studentship
+- MRC Doctoral Training Programme Studentship
 - Distinction in MSc Thesis at University College London
 - Global Scholar Award, Bright!Tax 2020
 - W. Raymond Evans Memorial Prize in Mathematics

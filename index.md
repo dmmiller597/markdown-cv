@@ -27,7 +27,7 @@ Gower Street, London WC1E 6BT, UK<br/>
 **M.Sc., Health Data Science**, *University College London*, London, UK.
 
 `2020`
-**Pre-Medicine/Pre-Medical Studies**, *University of Pennsylvania*, Philadelphia, PA, USA.
+**Pre-Medical Studies**, *University of Pennsylvania*, Philadelphia, PA, USA.
 
 `2016`
 **B.A., Physics**, *Bowdoin College*, Brunswick, ME, USA.

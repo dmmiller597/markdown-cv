@@ -14,7 +14,7 @@ Gower Street, London WC1E 6BT, UK<br/>
 <div id="webaddress">
   <a href="https://dmmiller597.github.io"><i class="fa-solid fa-house"></i> dmmiller597.github.io</a> - 
   <a href="https://github.com/dmmiller597"><i class="fa-brands fa-github"></i> dmmiller597</a> - 
-  <a href="[https://www.linkedin.com/in/david-miller-921715126/](https://www.linkedin.com/in/david-miller-921715126/)"><i class="fa-brands fa-linkedin"></i> linkedin</a>
+  <a href="https://www.linkedin.com/in/david-miller-921715126"><i class="fa-brands fa-linkedin"></i> linkedin</a>
 </div>
 
 ## Education

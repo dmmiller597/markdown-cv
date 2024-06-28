@@ -72,9 +72,6 @@ SL Zheng, A Henry, D Cannie, M Lee, **D Miller**, KA McGurk, I Bond, X Xu, ... G
 A Henry, X Mo, C Finan, MD Chaffin, D Speed, H Issa, S Denaxas, **D Miller** ... Mapping the aetiological foundations of the heart failure spectrum using human genetics. *medRxiv*, 2023.10.01.23296379, 2023.
 
 `2021`
-N Vapiwala, **D Miller**, B Laventure, K Woodhouse, S Kelly, J Avelis, ... Stigma, beliefs and perceptions regarding prostate cancer among Black and Latino men and women. *BMC public health*, 21 (1), 1-11, 2021.
-
-`2021`
 YD Tseng, BS Hoppe, K Dedeckova, CG Patel, CE Hill-Kayser, **DM Miller**, ... Risk of Pneumonitis and Outcomes After Mediastinal Proton Therapy for Relapsed/Refractory Lymphoma: A PTCOG and PCG Collaboration. *International Journal of Radiation Oncology* Biology* Physics*, 109 (1), 220-230, 2021.
 
 `2021`

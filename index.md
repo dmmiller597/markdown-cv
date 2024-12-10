@@ -21,7 +21,7 @@ Gower Street, London WC1E 6BT, UK<br/>
 
 `2022-2026`
 **Ph.D., Computational Biology**, *University College London*, London, UK.
-- Focus on developing deep learning methods for functional annotation of proteins to inform protein design
+- Focus on developing generative models for protein sequence/structure and deep learning methods for functional annotation of proteins to inform protein design.
 
 `2021`
 **M.Sc., Health Data Science**, *University College London*, London, UK.
@@ -64,9 +64,12 @@ Gower Street, London WC1E 6BT, UK<br/>
 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?user=Aab-TdsAAAAJ&hl=en). 
 
+`2024`
+AE Ghareeb, J Bayne, AZ Wagen, AM Abdelhafid, **D Miller**, L Cubitt, ... RNA editing is a molecular clock in unmodified human cells
+*bioRxiv*, 2024.11.18.624170, 2024.
 
-`2023`
-SL Zheng, A Henry, D Cannie, M Lee, **D Miller**, KA McGurk, I Bond, X Xu, ... Genome-wide association analysis reveals insights into the molecular aetiology underlying dilated cardiomyopathy. *medRxiv*, 2023.09.28.23295408, 2023.
+`2024`
+SL Zheng, A Henry, D Cannie, M Lee, **D Miller**, KA McGurk, I Bond, X Xu, ... Genome-wide association analysis provides insights into the molecular etiology of dilated cardiomyopathy. *Nature Genetics*, 2024.11.21.1-13, 2024.
 
 `2023`
 A Henry, X Mo, C Finan, MD Chaffin, D Speed, H Issa, S Denaxas, **D Miller** ... Mapping the aetiological foundations of the heart failure spectrum using human genetics. *medRxiv*, 2023.10.01.23296379, 2023.

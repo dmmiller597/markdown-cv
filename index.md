@@ -21,7 +21,7 @@ Gower Street, London WC1E 6BT, UK<br/>
 
 `2022-2026`
 **Ph.D., Computational Biology**, *University College London*, London, UK.
-- Focus on developing generative models for protein sequence/structure and deep learning methods for functional annotation of proteins to inform protein design.
+- Generative models for protein sequence/structure and deep learning methods for protein annotations.
 
 `2021`
 **M.Sc., Health Data Science**, *University College London*, London, UK.
